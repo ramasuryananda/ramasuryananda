@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramasuryananda
-- 👀 I’m interested in Web Dev and Python Programming ( not Data Science)
-- 🌱 I’m currently learning Laravel and Node
+- 👀 I’m interested in Web Dev and Financial Technology System
+- 🌱 I’m currently learning Laravel, Go, and Java
 - 💞️ I’m looking to collaborate on More Web Dev Project
 - 📫 gunkrama96@gmail.com
 
